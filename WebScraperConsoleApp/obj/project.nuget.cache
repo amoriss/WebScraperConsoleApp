@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHCUYEF8Y4cFKdMRtzcKMRpDXysh0l7vT7g3IUoAlZp74tG+b5vaKY0PNVEzawdEvf65i9fVhq9e3kKsZ4eF2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amori\\Original\\WebScraperConsoleApp\\WebScraperConsoleApp\\WebScraperConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amori\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
+  "logs": []
+}
